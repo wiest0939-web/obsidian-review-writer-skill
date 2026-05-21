@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Review Writer"
+  short_description: "Evidence-first review writing with Obsidian notes."
+  default_prompt: "Use $obsidian-review-writer to build an evidence-based literature review from PDFs and save auditable reading notes into my Obsidian vault."
